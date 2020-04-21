@@ -1,7 +1,7 @@
 # Car Dealer Database
 
 - **Author:** Slaviana Pavlovich
-- **Acknowledgment:** The two files were submitted for the coursework in the "Programming 2" module as part of BSc in Information Management for Business at University College London
+- **Acknowledgment:** The two files were submitted for the coursework in the "Programming" module as part of BSc in Information Management for Business at University College London
 - **Date:** January 23rd 2017
 - **Language:** Java
 

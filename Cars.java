@@ -1,6 +1,6 @@
 // INST1002 Programming 1 -  Assessment 3.
 // Author -  Slaviana Pavlovich.
-// This is the main program.
+// This is the class file that defines the cars.
 
 public class Cars implements Comparable<Cars>                 
 {

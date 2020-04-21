@@ -1,6 +1,6 @@
 // INST1002 Programming 1 -  Assessment 3. 
 // Author -  Slaviana Pavlovich.
-// This is the main programme.
+// This is the main program.
 
 import java.util.ArrayList;
 import java.util.Collections;
